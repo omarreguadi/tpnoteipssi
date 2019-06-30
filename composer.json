@@ -1,15 +1,15 @@
 {
-    "name": "",
+    "name": "omar/ipssi-oop-d21.1-php-tp-2019",
     "authors": [
         {
-            "name": "",
-            "email": ""
+            "name": "omar REGUADI",
+            "email": "omarreguadi@gmail.com"
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "YourNamespace\\": "src/Application"
+            "Meetings\\": "."
         }
     },
     "require-dev": {
